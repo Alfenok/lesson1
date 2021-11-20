@@ -1,0 +1,10 @@
+newlist = [3, 5, 7, 9, 10.5]
+print(newlist)
+newlist.append("Python")
+print(newlist)
+print(newlist[0])
+print(newlist[-1])
+print(newlist[0])
+print(newlist[1:4])
+newlist.remove("Python")
+print(newlist)
